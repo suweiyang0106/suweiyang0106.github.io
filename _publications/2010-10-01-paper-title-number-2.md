@@ -1,7 +1,7 @@
 ---
 title: "Energy-Efficient Task Offloading for Time-sensitive Application in Fog Computing"
 collection: publications
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'This work brings a mechanism for balancing fog applications' response time and energy consumption.'
 date: 2018-11-22
 venue: 'IEEE Systems Journal'
 duties: 'Experiments and debug'
