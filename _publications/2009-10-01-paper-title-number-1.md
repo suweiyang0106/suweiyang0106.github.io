@@ -5,6 +5,6 @@ excerpt: 'This paper is about mitigating contention and thrashing problems betwe
 date: 2020-03-30
 venue: 'SAC 20'
 ---
-This paper is about mitigating contention and thrashing problems between memory and disk.
-duties: My master thesis. Improve 16% performance in real case
+This paper is about mitigating contention and thrashing problems between memory and disk.<br/>
+Duties: My master thesis. Improve 16% performance in real cases.
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
