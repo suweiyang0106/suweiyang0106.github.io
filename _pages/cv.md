@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in National Taiwan University of Science and Technology, 2017
 * M.S. in National Taiwan University of Science and Technology, 2020
-* M.S. in University of Utah, 2024 (expected)
+* M.S. in University of Utah, 2024 Dec (expected)
 
 Work experience
 ======
@@ -31,9 +31,7 @@ Skills
 * C - 3-4 years
 * C++ - 2-3 years
 * Python - 1-2 years
-  * PyTorch
-  * NumPy
-  * pandas
+  * PyTorch/NumPy/pandas
 * Deep learning
 * Machine learning
 * Embedded system
@@ -42,12 +40,9 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  * GPU Swap-aware Scheduler virtual memory management for GPU applications
+  * GPU Swap-aware Scheduler virtual memory management for GPU applications<br />
     Su-Wei Yang, Zhao-Wei Qiu, Ya-Shu Chen
-  * Energy-Efficient Task Offloading for Time-Sensitive Applications in Fog Computing
+  * Energy-Efficient Task Offloading for Time-Sensitive Applications in Fog Computing<br />
     Yu-Lin Jiang, Ya-Shu Chen, Su-Wei Yang, Chia-Hsueh Wu
     
 Teaching
