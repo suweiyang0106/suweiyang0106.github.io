@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download CV]([https://link-url-here.org](https://github.com/suweiyang0106/suweiyang0106.github.io/blob/master/_pages/CV.pdf))
+[Download CV](https://github.com/suweiyang0106/suweiyang0106.github.io/blob/master/_pages/CV.pdf)
 
 Education
 ======
