@@ -19,13 +19,13 @@ Education
 Work experience
 ======
 * Aug 2023 - present: Graduate researcher
-  * University of Utah
-  * Duties included: looking for the problem and try to figure it out.
+  * Company: University of Utah
+  * Duties: Look for the problem and try to figure it out.
   * Supervisor: Shandian Zhe
 
 * May 2020 - Nov 2022: Firmware engineer
-  * Silicon motion
-  * Duties included: Firmware development and verification/IC verification
+  * Company: Silicon Motion
+  * Duties: Firmware development and verification/IC verification
   
 Skills
 ======
