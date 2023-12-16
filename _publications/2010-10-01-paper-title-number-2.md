@@ -7,6 +7,6 @@ venue: 'IEEE Systems Journal'
 duties: 'Experiments and debug'
 ---
 This work brings a mechanism for balancing fog applications' response time and energy consumption.<br/>
-Duties: Experiments and debug
+Duties: Experiments and debug  
 [Download paper here](https://ieeexplore.ieee.org/document/8543232)
 
