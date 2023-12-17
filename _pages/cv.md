@@ -26,7 +26,15 @@ Work experience
 * May 2020 - Nov 2022: Firmware engineer
   * Company: Silicon Motion
   * Duties: Firmware development and verification/IC verification
-  
+
+Courses
+======
+*Operating system
+*Advanced operating system
+*Probabilistic machine learning
+*Computer architecture
+*Algorithm
+
 Skills
 ======
 * C - 3-4 years
