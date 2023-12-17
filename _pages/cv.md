@@ -29,11 +29,7 @@ Work experience
 
 Courses
 ======
-*Operating system
-*Advanced operating system
-*Probabilistic machine learning
-*Computer architecture
-*Algorithm
+Operating system/Advanced operating system/Probabilistic machine learning/Computer architecture/Algorithm
 
 Skills
 ======
