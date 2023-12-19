@@ -50,7 +50,7 @@ Publications
   * Energy-Efficient Task Offloading for Time-Sensitive Applications in Fog Computing<br />
     Yu-Lin Jiang, Ya-Shu Chen, Su-Wei Yang, Chia-Hsueh Wu
     
-Teaching
+Teaching assistant
 ======
   * Embedded System software design
-    *Duties: Design, assess, and grade students’ exams and projects 
+    * Duties: Design, assess, and grade students’ exams and projects 
