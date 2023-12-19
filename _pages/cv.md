@@ -12,9 +12,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in National Taiwan University of Science and Technology, 2017
-* M.S. in National Taiwan University of Science and Technology, 2020
 * M.S. in University of Utah, 2024 Dec (expected)
+* M.S. in National Taiwan University of Science and Technology, 2020
+* B.S. in National Taiwan University of Science and Technology, 2017
+
+
 
 Work experience
 ======
