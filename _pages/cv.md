@@ -36,7 +36,7 @@ Operating system/Advanced operating system/Probabilistic machine learning/Comput
 Skills
 ======
 * C - 3-4 years
-* C++ - 2-3 years
+* C++ - 1-2 years
 * Python - 1-2 years
   * PyTorch/NumPy/pandas
 * Deep learning
